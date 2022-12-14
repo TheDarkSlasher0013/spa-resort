@@ -2,15 +2,25 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - NEWC
-- NEWC
+- food
 cargoProduction:
-- NEWC
 - NEWC
 colour: 1
 fundCostMultiplier: 100
 id: 0
 layout:
 - - - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
 name: Spa Resort
 placement: near-town
 probabilityInGame: 5
