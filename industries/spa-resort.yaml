@@ -2,7 +2,9 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - NEWC
+- NEWC
 cargoProduction:
+- NEWC
 - NEWC
 colour: 1
 fundCostMultiplier: 100
