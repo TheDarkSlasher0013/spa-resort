@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 160
+colour: 1
+id: 1
+label: NEWC
+longName: food
+name: Food
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/food.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
