@@ -1,8 +1,8 @@
 available: false
 callbacks: ''
 cargoAcceptance:
-- NEWC
 - food
+- NEWC
 cargoProduction:
 - NEWC
 colour: 1
