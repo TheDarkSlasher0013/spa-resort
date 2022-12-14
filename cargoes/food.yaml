@@ -1,9 +1,9 @@
-abbreviation: NE
+abbreviation: fd
 available: false
 classes: 160
 colour: 1
 id: 1
-label: NEWC
+label: food
 longName: food
 name: Food
 penaltyLength: 255
